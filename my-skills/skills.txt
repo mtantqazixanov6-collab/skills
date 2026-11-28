@@ -20,3 +20,4 @@ https://uizze.sh ui-taste
 https://uizze.sh ios-design
 https://github.com/mattpocock/skills triage
 https://github.com/101-skills/superpowers ai-video-generation
+https://github.com/101-skills/superpowers ai-image-generation
