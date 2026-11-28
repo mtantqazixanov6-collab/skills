@@ -25,3 +25,5 @@ https://github.com/101-skills/superpowers twitter-automation
 https://github.com/101-skills/superpowers ai-avatar-video
 https://github.com/mattpocock/skills domain-modeling
 https://github.com/mattpocock/skills codebase-design
+https://github.com/mattpocock/skills teach
+https://github.com/mattpocock/skills diagnosing-bugs
