@@ -13,3 +13,4 @@ https://github.com/mattpocock/skills improve-codebase-architecture
 https://github.com/mattpocock/skills tdd
 https://github.com/mattpocock/skills setup-matt-pocock-skills
 https://github.com/mattpocock/skills handoff
+https://github.com/mattpocock/skills grilling
