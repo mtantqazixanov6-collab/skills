@@ -34,3 +34,6 @@ https://github.com/penpot/penpot security-and-hardening
 https://github.com/penpot/penpot ste
 https://github.com/OpenWhispr/openwhispr openwhispr-api
 https://github.com/OpenWhispr/openwhispr openwhispr-cli
+https://github.com/calcom/cal.diy calcom-api
+https://github.com/vercel-labs/agent-skills vercel-react-best-practices
+https://github.com/vercel-labs/agent-skills web-design-guidelines
