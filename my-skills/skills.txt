@@ -29,3 +29,6 @@ https://github.com/mattpocock/skills teach
 https://github.com/mattpocock/skills diagnosing-bugs
 https://open.feishu.cn/ *
 https://github.com/mattpocock/skills code-review
+https://github.com/debpalash/VoiceStudio voicestudio
+https://github.com/penpot/penpot security-and-hardening
+https://github.com/penpot/penpot ste
