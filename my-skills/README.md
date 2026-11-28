@@ -6,4 +6,4 @@ Quraşdırdığım skill-lərin siyahısı. Hamısını yenidən quraşdırmaq �
 ./my-skills/install.sh
 ```
 
-Yeni skill əlavə etmək: `skills.txt`-ə `<repo-url> <skill-adı>` sətri yazın.
+Yeni skill əlavə etmək: `skills.txt`-ə `<repo-url> <skill-adı>` sətri yazın (mənbədəki hamısı üçün skill adı yerinə `*`).
