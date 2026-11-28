@@ -27,5 +27,5 @@ https://github.com/mattpocock/skills domain-modeling
 https://github.com/mattpocock/skills codebase-design
 https://github.com/mattpocock/skills teach
 https://github.com/mattpocock/skills diagnosing-bugs
-https://open.feishu.cn/lark-cli/skills/regular *
+https://open.feishu.cn/ *
 https://github.com/mattpocock/skills code-review
