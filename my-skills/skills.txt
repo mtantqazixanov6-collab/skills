@@ -3,3 +3,13 @@ https://github.com/vercel-labs/skills find-skills
 https://github.com/vercel-labs/agent-browser agent-browser
 https://github.com/heygen-com/hyperframes hyperframes-cli
 https://github.com/heygen-com/hyperframes hyperframes
+https://github.com/designed-by-ai/skills design-mobile-apps
+https://github.com/mattpocock/skills grill-me
+https://github.com/heygen-com/hyperframes media-use
+https://github.com/flowkit-labs/skills reddit-automation
+https://github.com/heygen-com/hyperframes hyperframes-registry
+https://github.com/mattpocock/skills grill-with-docs
+https://github.com/mattpocock/skills improve-codebase-architecture
+https://github.com/mattpocock/skills tdd
+https://github.com/mattpocock/skills setup-matt-pocock-skills
+https://github.com/mattpocock/skills handoff
