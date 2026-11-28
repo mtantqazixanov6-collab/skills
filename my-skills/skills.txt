@@ -32,3 +32,5 @@ https://github.com/mattpocock/skills code-review
 https://github.com/debpalash/VoiceStudio voicestudio
 https://github.com/penpot/penpot security-and-hardening
 https://github.com/penpot/penpot ste
+https://github.com/OpenWhispr/openwhispr openwhispr-api
+https://github.com/OpenWhispr/openwhispr openwhispr-cli
