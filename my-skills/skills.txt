@@ -1,3 +1,5 @@
 # Bir sətir = bir skill: <repo-url> <skill-adı>
 https://github.com/vercel-labs/skills find-skills
 https://github.com/vercel-labs/agent-browser agent-browser
+https://github.com/heygen-com/hyperframes hyperframes-cli
+https://github.com/heygen-com/hyperframes hyperframes
